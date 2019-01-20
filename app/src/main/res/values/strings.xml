@@ -118,7 +118,7 @@
     <string name="skill_not_found">No skill found yet</string>
 
     <!--Material Dialog-->
-    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password">" "</string>
 
     <string name="copy_items">Copy</string>
 
@@ -218,7 +218,6 @@
 
     <string name="pass_change_dialog">Changing your password. Please wait</string>
 
-    <string name="pref_rate_summary">Rate the SUSI App on the Google Play store</string>
     <string name="pref_rate_title">Rate SUSI</string>
     <string name="pref_share_summary">Share the SUSI app with your friends.</string>
     <string name="pref_share_title">Share SUSI</string>
